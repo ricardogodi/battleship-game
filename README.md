@@ -2,7 +2,7 @@
 
 ## Description
 
-The Battleship Game is a strategic and interactive GUI-based game where players challenge computer-controlled opponents. It offers varying levels of difficulty and leverages advanced gaming mechanics to provide an immersive experience. This game is developed using JavaFX, showcasing dynamic imagery and sound effects.
+The Battleship Game is a strategic and interactive GUI-based game where the user challenges computer-controlled opponents. This game is developed using JavaFX, showcasing dynamic imagery and sound effects.
 
 ## Prerequisites
 
