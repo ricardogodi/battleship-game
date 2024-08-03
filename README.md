@@ -26,7 +26,7 @@ Download the JavaFX SDK from [OpenJFX](https://openjfx.io). Make sure you downlo
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/ricardogodi/battleship-game.git
 cd Battleship-Game
 ```
 
