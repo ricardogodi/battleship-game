@@ -34,11 +34,11 @@ cd Battleship-Game
 
 Navigate to the project directory and compile the game using:
 ```bash
-javac --module-path /Users/ricardogonzalez/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.media -d bin src/BattleLines.java
+javac --module-path /path/to/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.media -d bin src/BattleLines.java
 ```
 
 ### 5. Run the Game
 ```bash
-java --module-path /Users/ricardogonzalez/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.media -cp bin BattleLines
+java --module-path /path/to/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.media -cp bin BattleLines
 ```
 
